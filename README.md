@@ -5,6 +5,6 @@ Change log (22 November 2020)
 v0.0.1b
 - Innitial release
 
-
+\n
 Next Update
 - Password = *
