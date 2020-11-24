@@ -6,4 +6,5 @@ v0.0.1b
 - Innitial release
 
 
-
+Next Update
+- Password = *
