@@ -5,6 +5,14 @@ Change log (22 November 2020)
 v0.0.1b
 - Innitial release
 
-\n
+Change log (14 Desember 2020)
+v0.0.2b
+- Perubahan warna console saat  error
+
+Change log (14 Desember 2020)
+v0.1.0b
+- Peringatan persyaratan NIM dan Password
+
+
 Next Update
-- Password = *
+- input Password = *
