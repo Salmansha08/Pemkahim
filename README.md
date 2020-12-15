@@ -18,3 +18,4 @@ Next Update
 - input Password = *
 - fix bug error input NIM selain integer
 - penambahan 2 bagian calon jadi ada Eksekutif dan Legislatif
+- penambahan argumen ulang dan exit
